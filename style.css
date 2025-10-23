@@ -2,4 +2,14 @@ body{
     background-color: rgba(21, 2, 105, 0.904);
     color:rgb(214, 252, 1);
      font-family: "BBH Sans Hegarty", sans-serif;
+display:flex ;
+justify-content:center ;
+align-items:center ;
+height:700px ;
+margin: 0;
+}
+button{
+ background-color: rgb(4, 12, 11);
+ color: rgb(207, 207, 207);
+   font-family: "BBH Sans Hegarty", sans-serif;
 }
