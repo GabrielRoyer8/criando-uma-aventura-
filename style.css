@@ -13,3 +13,12 @@ button{
  color: rgb(207, 207, 207);
    font-family: "BBH Sans Hegarty", sans-serif;
 }
+.passo{
+  display: none;
+}
+.passo{
+  display: block;
+}
+main{
+  max-width: 90%;
+}
